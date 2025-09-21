@@ -45,11 +45,6 @@
 			path = BDDNativeTestDemoTests;
 			sourceTree = "<group>";
 		};
-		A93413C22E7FEE04009BF9F8 /* BDDNativeTestDemoUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = BDDNativeTestDemoUITests;
-			sourceTree = "<group>";
-		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,7 +78,6 @@
 				A93413DA2E7FF9FF009BF9F8 /* README.md */,
 				A93413AA2E7FEE03009BF9F8 /* BDDNativeTestDemo */,
 				A93413B82E7FEE04009BF9F8 /* BDDNativeTestDemoTests */,
-				A93413C22E7FEE04009BF9F8 /* BDDNativeTestDemoUITests */,
 				A93413A92E7FEE03009BF9F8 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -158,9 +152,6 @@
 			);
 			dependencies = (
 				A93413C12E7FEE04009BF9F8 /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				A93413C22E7FEE04009BF9F8 /* BDDNativeTestDemoUITests */,
 			);
 			name = BDDNativeTestDemoUITests;
 			packageProductDependencies = (
